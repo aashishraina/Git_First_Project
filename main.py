@@ -13,6 +13,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm_code_change_version_5')
+    print_hi('PyCharm_code_change_version_5_branch')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
